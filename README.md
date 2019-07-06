@@ -1,3 +1,13 @@
+# 新项目介绍
+
+目前我们重新做了一个更加精致的项目，效果如下：
+
+![1558160181194](https://ohuuyffq2.qnssl.com/1558160181194.jpg)
+
+链接地址：
+
+https://github.com/netless-io/netless-rtc-react-whiteboard
+
 # 如何快速集成一个在线教室 v2
 
 一、现在市场上的在线教室都是怎么样的![ff.png](https://cdn.nlark.com/yuque/0/2019/png/102649/1554879028921-0f212185-e4b6-4e81-8b19-79dfe3f3ed91.png#align=left&display=inline&height=492&name=ff.png&originHeight=1188&originWidth=1800&size=384823&status=done&width=746)
